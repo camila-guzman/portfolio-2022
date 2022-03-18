@@ -44,6 +44,8 @@
             Curious developer who loves learning new techniques and tools to improve user experiences
             </p>
 
+            <i>Tap on my logo! 👋</i>
+
             <!--social nav-->
             <nav class="social-nav">
                 <li><a href="https://github.com/camila-guzman"><span><i style="margin-right: 10px" class="fab fa-github-alt"></i></span>@camila-guzman on GitHub</a></li>
