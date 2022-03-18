@@ -44,7 +44,7 @@
     line-height: 1.75em;
     width: fit-content;
   }
-  .project-link {
+  .inline-link {
     color: $blue !important;
   }
   .credit {
@@ -86,7 +86,7 @@
     width: 110px;
     margin-right:10px;
   }
-  .project-link:hover {
+  .inline-link:hover {
     text-decoration: underline !important;
   }
 }
@@ -195,7 +195,7 @@
     padding-bottom: 20px;
   }
   .project {
-    padding: 20px 0px;
+    padding: 40px 0px;
     box-shadow: 0px 2px 0px 0px rgba(219, 219, 219, 0.3);
   }
   .project h2 {
