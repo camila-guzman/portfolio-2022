@@ -11,7 +11,7 @@
         <div class="row">
           
         <div class="col-lg-4">
-          <img class="img-fluid headshot" src="./images/headshot-flowers.jpg" />
+          <img class="img-fluid headshot" src="./images/camila-guzman-photo.jpg" />
         </div>
         <div class="col-lg-8 pb-4">
         <p>My name is Camila Guzman and I am a developer! <span><i class="fas fa-smile-beam"></i></span></p>
