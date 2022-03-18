@@ -208,6 +208,7 @@
                 <p>I worked as the UX & UI Designer for a demo of TrunkSide, an app dedicated to curbside food delivery. This project was for UCF's 36 Hour Hackathon called KnightHacks.</p>
                 <p>I designed prototypes for three screens on Figma: the dashboard, cart, and pickup confirmation. The prototypes guided the developers during development.</p>
                 <p>I also pair programmed with the developers on the team, applying my knowledge of CSS and React to learn basic Flutter!</p>
+                <p>View our hackathon submission below for more details.</p>
               </div>
               <div class="col-lg-3 tools">
                 <p>Tools</p>
@@ -218,6 +219,10 @@
                   <li>Flutter</li>
                 </ul>
               </div>
+              <div class="my-3">
+              <a class="cta" href="https://devpost.com/software/trunkside?ref_content=user-portfolio&ref_feature=in_progress">View our Hackathon Submission</a>
+              <i class="fas fa-arrow-up d-block"></i>
+            </div>
             </div>
           </div>
         </div>
