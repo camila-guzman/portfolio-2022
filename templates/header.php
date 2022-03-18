@@ -7,6 +7,9 @@
     <!--stylesheet-->
     <link rel="stylesheet" href="styles/main.css" />
 
+    <!--favicon-->
+    <link rel="icon" href="images/favicon.gif" type="image/gif" />
+
     <!--icon kit-->
     <script src="https://kit.fontawesome.com/bf0ea5bc59.js" crossorigin="anonymous"></script>
 
