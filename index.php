@@ -18,7 +18,7 @@
               <div class="col-lg-9">
                 <p class="date">August 2021-December 2021</p>
                 <p>This was a group project completed for my university capstone. I collaborated with designers and a developer to revamp the existing Orlando's Lynx Bus Tracker App. We conceptualized, planned, and built the new Lynx Bus App on time.</p>
-                <p>I worked as a developer with another teammate to build out the new app using a front and back end tech stack. We used PHP, SQL, and MySQL to store and dynamically display bus information, filter through routes, and handle account details.</p> 
+                <p>I worked as a developer with another teammate to build out the new app using a front and back end tech stack. I introducted PHP, SQL, and MySQL to store and dynamically display bus route information and filter through routes!</p> 
               </div>
               <div class="col-lg-3 tools">
                 <p>Tools</p>
@@ -51,11 +51,11 @@
             <div class="row">
               <div class="col-lg-9">
                 <p class="date">May 2021-December 2021</p>
-                <p>I lead, managed, and executed the creation of a web style guide website for Aruba, a Hewlett Packard Enterprise Company.</p>
+                <p>I led, managed, and executed the creation of a web style guide website for Aruba, a Hewlett Packard Enterprise Company.</p>
                 
                 <strong>Purpose</strong>
                 <ul>
-                  <li>Define key UI elements across websites: <a class="project-link" href="www.arubanetworks.com">arubanetworks.com</a> &amp; <a class="project-link" href="www.arubainstanton.com">arubainstanton.com</a></li>
+                  <li>Define key UI elements across websites: <a class="inline-link" href="www.arubanetworks.com">arubanetworks.com</a> &amp; <a class="inline-link" href="www.arubainstanton.com">arubainstanton.com</a></li>
                   <li>Strengthen Aruba's web branding after their redesign launch</li>
                   <li>Make sure sites and web apps created by external teams follow new brand rules</li>
                 </ul>
@@ -64,7 +64,7 @@
                 
                 <p>I categorized content, organized the information architecture, and created a low-fidelity prototype on Adobe XD.</p>
 
-                <p> After UX/UI iterations and content writing, I built a Wordpress theme to house the guide using HTML, CSS, PHP, and Bootstrap. I wrote up documentation and a training guide for the developers.</p>
+                <p> After UX/UI iterations and content writing, I built a Wordpress theme to house the guide using HTML, CSS, PHP, and Bootstrap. I wrote up documentation and a training guide for the developers to use after I left the team.</p>
 
                 <p>I presented this project to a panel of judges for Hewelett Packard's Intern Project Fair Best in Class Competition. I won 2nd Place for Best Technical Presentation!</p>
 
@@ -87,7 +87,7 @@
 
         <div class="row project">
           <div class="col-lg-5">
-            <img class="portfolio-img img-fluid mb-2 mt-4" src="./images/osi-events-cover.png" />
+            <img class="portfolio-img img-fluid mb-4" src="./images/osi-events-cover.png" />
           </div>
           <div class="col-lg-7">
             <h3>Events Page Redesign</h3>
@@ -122,7 +122,7 @@
 
         <div class="row project">
           <div class="col-lg-5">
-            <img class="portfolio-img img-fluid mb-2 mt-4" src="./images/tuner-app.png" />
+            <img class="portfolio-img img-fluid mb-4" src="./images/tuner-app.png" />
           </div>
           <div class="col-lg-7">
             <h3>Tuner App</h3>
@@ -134,7 +134,7 @@
             <div class="row">
               <div class="col-lg-9">
                 <p class="date">April 2021</p>
-                <p>I created a mock up for a social media concept called Tuner!</p>
+                <p>I created a mock up for a social media concept app called Tuner!</p>
                 <p>The app allows users to discover music, make friends, and create generated content based on their listening history. I designed the branding using Canva, built a mock up on Adobe XD, and designed the generated content examples with Adobe Photoshop.</p>
                 <p>More project details can be found on my Behance post linked below:</p>
               </div>
@@ -157,7 +157,7 @@
 
         <div class="row project">
           <div class="col-lg-5">
-            <img class="img-fluid mb-2 mt-4" src="./images/butterscotch-bakery-display.jpg" />
+            <img class="img-fluid mb-4" src="./images/butterscotch-bakery-display.jpg" />
           </div>
           <div class="col-lg-7">
             <h3>Butterscotch Bakery</h3>
@@ -195,7 +195,7 @@
 
         <div class="row project">
           <div class="col-lg-5">
-            <img class="img-fluid my-3" src="./images/trunkside.jpg" />
+            <img class="img-fluid mb-4" src="./images/trunkside.jpg" />
           </div>
           <div class="col-lg-7">
             <h3>TrunkSide App</h3>
@@ -224,7 +224,7 @@
 
         <div class="row project">
           <div class="col-lg-5">
-                <img class="img-fluid my-3" src="./images/academic-village-screen.png" />
+                <img class="img-fluid mb-4" src="./images/academic-village-screen.png" />
           </div>
           <div class="col-lg-7">
             <h3>UCF Historical Buildings Tour</h3>
@@ -267,7 +267,7 @@
           <h3>Portfolio Archive</h3>
           <p>Let's look back at past portfolios to see the growth :')</p>
           <div class="col-lg-3">
-            <img class="img-fluid my-3" src="./images/portfolio-february-2022.PNG" />
+            <img class="img-fluid mb-3" src="./images/portfolio-february-2022.PNG" />
             <p>February 2022</p>
             <div class="my-3">
               <a class="cta" href="http://cg-portfolio-2-22.herokuapp.com/">Visit Site</a>
@@ -275,7 +275,7 @@
             </div>
           </div>
           <div class="col-lg-3">
-            <img class="img-fluid my-3" src="./images/portfolio-november-2020.PNG" />
+            <img class="img-fluid mb-3" src="./images/portfolio-november-2020.PNG" />
             <p>November 2020</p>
             <div class="my-3">
               <a class="cta" href="http://cg-portfolio-11-20.herokuapp.com/">Visit Site</a>
@@ -283,9 +283,9 @@
             </div>
           </div>
           <div class="col-lg-3">
-            <img class="img-fluid my-3" src="./images/portfolio-august-2020.PNG" />
+            <img class="img-fluid mb-3" src="./images/portfolio-august-2020.PNG" />
             <p>August 2020</p>
-            <div class="my-3">
+            <div class="mb-3">
               <a class="cta" href="hhttps://camila-guzman.github.io/">Visit Site</a>
               <i class="fas fa-arrow-up d-block"></i>
             </div>
