@@ -7,7 +7,7 @@
 
     <nav class="navbar">
     <a href="./about.php">About</a>
-    <a href="./portfolio.php">Portfolio</a>
+    <a href="./index.php">Portfolio</a>
     <a href="./contact.php">Contact</a>
 </nav>
 <p class="credit"><span><i class="fas fa-smile"></i></span> Designed & built by Camila Guzman 2022 <span><i class="fas fa-smile"></i></span></p>
