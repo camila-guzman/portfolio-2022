@@ -1,218 +1,33 @@
 // import variables
 @import "variables";
 
-/*
-
-@mixin media-queries {
-  @media only screen and (max-width: 570px) {
-    .sidebar {
-      display: none;
-    }
-    .name,
-    .nav-bar {
-      position: sticky;
-    }
-    .name {
-      margin-left: 20px;
-    }
-    .section {
-      display: inline-block;
-      margin: $m-standard;
-    }
-    .project img {
-      width: 100%;
-      height: auto;
-    }
-    .project a {
-      margin-right: 20px;
-    }
-    .project-5-grid a {
-      display: block;
-    }
-  }
-  @media only screen and (max-width: 425px) {
-    .live-link,
-    .live-link2 {
-      display: block;
-      margin-bottom: 10px;
-    }
-  }
-  @media only screen and (min-width: 571px) {
-    .nav-div {
-      display: none;
-    }
-    .section {
-      display: block;
-    }
-    .section {
-      margin-left: 380px;
-      padding-left: 40px;
-      padding-top: 0px;
-      //padding-right: 70px;
-      padding-bottom: 20px;
-    }
-
-    #about {
-      padding-top: $p-minimum;
-    }
-
-    .project img {
-      width: 80%;
-      height: auto;
-    }
-    .desc {
-      width: 80%;
-    }
-    .project-1-grid,
-    .project-2-grid,
-    .project-3-grid,
-    .project-4-grid,
-    .project-5-grid {
-      display: grid;
-      grid-template-columns: auto auto auto;
-    }
-    .project-1-grid img {
-      grid-row: 2 / span 1;
-      grid-column: 1 / span 3;
-    }
-    .project-1-grid .date {
-      grid-row: 3 / span 1;
-      grid-column: 1 / span 3;
-    }
-    .project-1-grid .desc {
-      grid-row: 4 / span 1;
-      grid-column: 1 / span 3;
-    }
-    .project-1-grid .live-link {
-      grid-row: 5 / span 1;
-      grid-column: 1 / span 1;
-    }
-    .project-1-grid .code-link {
-      grid-row: 5 / span 1;
-      grid-column: 3 / span 1;
-    }
-
-    .project-2-grid img {
-      grid-row: 6 / span 1;
-      grid-column: 1 / span 3;
-    }
-    .project-2-grid .date {
-      grid-row: 7 / span 1;
-      grid-column: 1 / span 3;
-    }
-    .project-2-grid .desc {
-      grid-row: 8 / span 1;
-      grid-column: 1 / span 3;
-    }
-    .project-2-grid .live-link {
-      grid-row: 9 / span 1;
-      grid-column: 1 / span 2;
-    }
-
-    .project-3-grid .img {
-      grid-row: 10 / span 1;
-      grid-column: 1 / span 1;
-    }
-    .project-3-grid .date {
-      grid-row: 11 / span 1;
-      grid-column: 1 / span 1;
-    }
-    .project-3-grid .desc {
-      grid-row: 12 / span 1;
-      grid-column: 1 / span 3;
-    }
-    .project-3-grid .live-link {
-      grid-row: 13 / span 1;
-      grid-column: 1 / span 1;
-    }
-    .project-3-grid .code-link {
-      grid-row: 13 / span 1;
-      grid-column: 3 / span 1;
-    }
-
-    .project-4-grid .img {
-      grid-row: 14 / span 1;
-      grid-column: 1 / span 1;
-    }
-    .project-4-grid .date {
-      grid-row: 15 / span 1;
-      grid-column: 1 / span 1;
-    }
-    .project-4-grid .desc {
-      grid-row: 16 / span 1;
-      grid-column: 1 / span 3;
-    }
-    .project-4-grid .live-link {
-      grid-row: 17 / span 1;
-      grid-column: 1 / span 1;
-    }
-    .project-4-grid .code-link {
-      grid-row: 17 / span 1;
-      grid-column: 3 / span 1;
-    }
-
-    .project-5-grid .img {
-      grid-row: 18 / span 1;
-      grid-column: 1 / span 1;
-    }
-    .project-5-grid .date {
-      grid-row: 19 / span 1;
-      grid-column: 1 / span 1;
-    }
-    .project-5-grid .desc {
-      grid-row: 20 / span 1;
-      grid-column: 1 / span 3;
-    }
-    .project-5-grid .live-link {
-      grid-row: 21 / span 1;
-      grid-column: 1 / span 1;
-    }
-    .project-5-grid .live-link2 {
-      grid-row: 22 / span 1;
-      grid-column: 1 / span 1;
-    }
-    .project-5-grid .code-link {
-      grid-row: 22 / span 1;
-      grid-column: 3 / span 1;
-    }
-
-    .contact-grid {
-      display: block;
-    }
-  }
-} */
-
 @mixin font-style {
   body {
-    font-family: "Rubik", sans-serif;
+    //font-family: "Rubik", sans-serif;
+    font-family: "filson-pro", sans-serif !important;
+    font-style: normal;
     color: $light-color !important;
     background-color: $dark-color !important;
-    font-weight: 400 !important;
-  }
-  h1,
-  h2 {
-    font-weight: 200;
+    font-weight: 300 !important;
   }
   h1 {
-    font-size: 2em;
-    // border-bottom: 2px solid $light-color;
+    font-weight: 400;
+    //font-family: "bubblegum-pop-vanilla", sans-serif !important;
+    font-size: 3em !important;
   }
   h2 {
-    font-size: 1.75em;
+    //font-size: 2.5em !important;
+    font-family: "filson-pro", sans-serif !important;
     margin: 0;
   }
   .name {
-    font-size: 2em;
-    padding: 15px;
+    //font-family: "bubblegum-pop-vanilla", sans-serif !important;
+    font-size: 2.2em !important;
   }
   .nav-bar,
   .button,
   .page-nav {
     font-size: 1.5em;
-  }
-  a {
-    text-decoration: none !important;
-    color: $light-color !important;
   }
   .social-nav {
     line-height: 25px;
@@ -227,68 +42,52 @@
   }
   .project a {
     line-height: 1.75em;
+    width: fit-content;
+  }
+  .project-link {
+    color: $blue !important;
+  }
+  .credit {
+    margin-top: 20px;
+    font-size: .75em !important;
+    color: $highlight;
+  }
+  .highlight {
+    background-color: #fffc68 !important;
+    padding-right: 4px;
   }
 }
 
 @mixin hover-style {
-  a:hover {
-    color: $medium-color !important;
-    text-decoration: none !important;
-  } 
-  .page-nav a:hover {
-    writing-mode: horizontal-tb;
+  nav a:hover, #contact a:hover  {
+    color: $highlight !important;
   }
-  button:hover {
-    color: $medium-color;
+  .cta:hover {
+    color: $dark-color !important;
+    background-color: $highlight;
+    border: none;
   }
   #toggle-nav:hover {
-    border-color: $medium-color !important;
-    color: $medium-color !important;
+    border-color: $highlight !important;
+    color: $highlight !important;
   }
-  /*
-  header:hover {
-    //background-color: $light-color;
-    //color: $dark-color !important;
-  }
-  header:hover #toggle-nav {
-    //border-color: $dark-color;
-  }
-  header:hover h2, header:hover #toggle-nav{
-    //color: $dark-color;
-  }*/ 
-
-  .name:hover {
-    // border-color: $medium-color;
-    color: $dark-color;
-    animation: bg-colors 3s infinite;
+  .name:hover, .sidebar:hover .name {
     cursor: default; 
   }
-
-  @keyframes bg-colors {
-    0% { background-color: $blue; }
-    25% { background-color: $green; }
-    50% { background-color: $yellow; }
-    75% { background-color: $peach; }
-    100% { background-color: $purple; }
-  }
-
-  @keyframes text-colors {
-    0% { color: $blue; }
-    25% { color: $green; }
-    50% { color: $yellow; }
-    75% { color: $peach; }
-    100% { color: $purple; }
-  }
-
-  .name:hover {
-    cursor: default;
-  }
-
-  .logo:hover {
+  .sidebar:hover .logo {
     background: url(../images/friend-waving-transparent-fast.gif) no-repeat round;
     height: 300px;
     max-width: 100%;
     max-height: 150px;
+  }
+  .logo:hover {
+    background: url(../images/friend-waving-transparent-fast.gif) no-repeat round;
+    height: 67px;
+    width: 110px;
+    margin-right:10px;
+  }
+  .project-link:hover {
+    text-decoration: underline !important;
   }
 }
 
@@ -302,32 +101,36 @@
     top: 0;
     z-index: 1;
   }
-
-  .nav-div .logo {
-    height: 30px;
-    width: 52px;
-    max-width: none;
-    max-height: none;
+  .nav-div .name {
+    width: 140px;
+    line-height: 32px;
+    margin-bottom: 0;
+    font-size: 2.3em !important;
+    cursor: pointer;
+  }
+  .logo {
+    background: url(../images/logo-cg-transparent.png) no-repeat round;
+    height: 67px;
+    width: 110px;
+    margin-right:10px;
   }
   header {
     display: flex;
-    align-items: baseline;
+    align-items: end;
     justify-content: space-between;
     padding: $p-minimum 0px;
   }
-
   #toggle-nav {
     border: 2px solid $light-color;
     border-radius: 20px;
     background: none;
     height: 30px;
-    margin-right: $m-standard;
-    padding: $p-minimum;
+    margin-bottom: 3px;
+    padding: 20px;
     padding-top: 5px;
     padding-left: 10px;
     color: $light-color;
   }
-
   #toggle-nav i {
     margin-left: 8px;
   }
@@ -343,29 +146,34 @@
     display: block;
     line-height: 1.5em;
   }
+  .social-nav li {
+    list-style: none;
+  }
 }
 
 @mixin sidebar-style {
   .sidebar {
-    padding: $p-standard;
-    padding-top: $p-standard;
-    background-color: $dark-color;
-    border-right: 2px solid $light-color;
+    padding-top: 20px;
   }
-  .logo {
+  .sidebar .logo {
     background: url(../images/logo-cg-transparent.png) no-repeat round;
     height: 300px;
-    max-width: 100%;
+    width: 280px;
     max-height: 150px;
   }
-  
+  .sidebar p {
+    font-size: .8em !important;
+  }
+  .sidebar .social-nav {
+    font-size: .8em !important;
+  }
+  .sidebar li {
+    list-style: none;
+  }
   .name {
     width: fit-content;
-    border-radius: 30px;
-  } 
-
-  .resume-title {
-    width: 60%;
+    //animation: text-colors 3s infinite;
+    color: $highlight;
   }
   .social-nav {
     margin-top: $m-standard;
@@ -378,60 +186,149 @@
   .page-nav a {
     margin-right: $m-standard;
     display: block;
-    line-height: 2em;
+    line-height: 1.5em;
   }
 }
 
 @mixin portfolio-style {
-  /*
-  #portfolio img {
-    // border: 2px solid $light-color;
-  } */ 
-
+  #portfolio {
+    padding-bottom: 20px;
+  }
   .project {
-    margin-bottom: $m-standard;
+    padding: 20px 0px;
+    box-shadow: 0px 2px 0px 0px rgba(219, 219, 219, 0.3);
   }
   .project h2 {
-    margin-top: 21px;
-    margin-bottom: 21px;
-  }
-  .border {
-    // border-bottom: 2px solid $light-color;
-    width: 100%;
-    margin: $m-standard 0px;
-    opacity: 25%;
+    margin-top: 20px;
   }
   .desc {
     margin-bottom: $m-standard;
+    width: 100%;
+  }
+  .tools {
+    border-left: 2px solid gainsboro;
   }
 }
 
 @mixin contact-style {
+  #contact {
+    text-align: center;
+    width: 60%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
   .contact-nav {
     list-style-type: none;
     padding: 0px;
   }
   .contact-nav li {
     margin-bottom: 10px;
+    list-style: none;
+  }
+  .contact-nav li a {
+    color: $dark-color !important;
+  }
+  .envelope {
+    height: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+
+@mixin about-style {
+  .headshot {
+    margin-bottom: 20px;
+  }
+  .skills li {
+    margin-bottom: 10px;
+    list-style: none;
+  }
+  .tech-skills {
+    margin-top: 40px;
+  }
+  .skills {
+    background-color: white;
+    border-radius: 300px;
+    margin: 40px;
+    padding: 60px !important;
+  }
+  #resume {
+    background-color: lavender;
+    text-align: center;
+    padding-top: 20px;
+  }
+
+  #about {
+    padding: 10px 24px 0px 24px;
+  }
+  .education, .work-experience {
+    padding-top: 20px;
+  }
+  .honors-rewards {
+    background-color: white;
   }
 }
 
 @mixin element-style {
+   a {
+    color: $light-color !important;
+    text-decoration: none !important; 
+   }
   li {
-    list-style: none;
+    list-style: circle;
   }
-
-  .blob {
-    background: url(../images/blob-1-color.gif) no-repeat round;
-    height: 275px;
-    max-width: 100%;
+  .footer {
+    background-color: $dark-color;
   }
-
   .content {
-    margin-bottom: 40px;
+    padding-top: 20px;
+    background-color: $light-color;
+    color: $dark-color; 
   }
+  .cta {
+    color: $dark-color !important;
+    margin-right: 10px;
+  }
+  .content-wrapper {
+    background-color: $light-color;
+  }
+} 
 
-  #about {
-    margin-top: 40px;
+@mixin badges {
+  .badge-group {
+    margin-top: 5px;
+    margin-bottom: 15px;
+  }
+  .badge {
+    margin-right: 15px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    font-size: .9em !important;
+    padding: 10px 18px;
+    border-radius: 30px !important;
+    font-weight: 400 !important;
+    cursor: default; 
+  }
+  .b-full-stack {
+    color: $pink !important;
+    background-color: #fff1f9 !important;
+  }
+  .b-design {
+    color: $blue !important;
+    background-color: #e6faff !important;
+  }
+  .b-ux-ui {
+    color: $peach !important;
+    background-color: #fff4e3 !important;
+  }
+  .b-lead {
+    color: $green !important;
+    background-color: #e8ffec !important;
+  }
+  .b-content {
+    color: $purple !important;
+    background-color: #f3e4ff !important;
   }
 }

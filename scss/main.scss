@@ -11,8 +11,11 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Archivo:wght@300;400;600;800&family=Rubik:wght@300;400;500;700;900&display=swap');
 
+// bubblegum vanilla and filson
+@import url("https://use.typekit.net/yys6dip.css");
+
 // include the following mixins
-// @include media-queries;
+//@include media-queries;
 @include font-style;
 @include hover-style;
 
@@ -22,7 +25,9 @@
 
 // page specific mixins
 @include portfolio-style;
+@include about-style;
 @include contact-style;
+@include badges;
 
 // basic elements mixin
 @include element-style;

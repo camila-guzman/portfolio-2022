@@ -1,0 +1,117 @@
+<div style="background-color: white;/*! width: 30px; */" class="col-lg-8 d-none d-lg-block px-0">
+  <div style="" class="content container-fluid sticky-left">
+    
+    <h1>Portfolio</h1><div style="width: 100vh;height: 60vw;transform: rotate(-90deg) translateX(-100vh);transform-origin: top left;overflow-y: scroll;overflow-x: hidden;position: absolute;scrollbar-width: thin;scrollbar-color: yellow white;/*! max-width: 1000px; */" class="">
+  <!--
+  <div class="section">
+  <p> hi! my name is camila guzman</p>
+    <div class="blob">
+
+    </div>
+  </div> -->
+
+    
+    <!--portfolio section-->
+<div id="portfolio" class="section" style="display: flex;flex-direction: row;transform: rotate(90deg) translateY(-100vh);transform-origin: top left;width: 100vw;">
+
+  <div class="project project-1">
+    <h2 class="mt-4"> Butterscotch Bakery</h2>
+      
+      <p class="date mt-2">December 2020</p>
+      <p>Tools used:</p><div class="row">
+        <div solid="" class="col-6 p-4 py-0">
+          
+          <ul>
+            <li>HTML5</li>
+            <li>CSS3</li>
+            <li>SASS</li>
+            <li>BootStrap4</li>
+          </ul>
+         </div>
+<div class="col-6">
+<ul>
+          <li>PHP</li>
+          <li>SQL</li>
+          <li>MySQL</li>
+        </ul>
+      </div>
+</div>
+      <div class="">
+        <p> I created a website for a fake bakery inspired by my love for baked goods. I used PHP and SASS to create dynamic and efficient web pages with fully custom styles.</p>
+
+        <p>I used MySQL to organize a database with two tables: one for account information with encrypted passwords and a second table for menu items and their details.</p>
+
+        <p>This project will be redesigned and developed in March 2022 to showcase my growth.</p>
+      </div>
+    
+  
+
+    <a class="live-link d-block mt-4" href="https://butterscotch-bakery.herokuapp.com/">View Project</a>
+    <a class="code-link d-block" href="https://github.com/camila-guzman/butterscotch-bakery/">View on GitHub</a>
+</div>
+
+
+
+<div class="project project-2">
+  <h2 class="mt-4">TrunkSide</h2>
+  
+  <p class="date mt-2">October 2020</p>
+            <p>TrunkSide is a curbside food app concept. I worked as the Lead Designer responsible for strategizing the UX/UI design for the first front-end demo of TrunkSide during Knight Hacks, University of Central Florida's 36 Hour Hackathon. </p>
+        
+        <p> I designed prototypes for three screens using Figma. This Hackathon was the first time I had used Figma on a large scale project. </p>
+        
+        <p>I also pair programmed with two of my teammates as an observer, allowing me to use my knowledge of React and CSS to learn the basics of Flutter and lead the UI/UX strategy.</p>
+        
+        <p>I will continue working with the team as Lead Designer as the project grows. </p>  
+    
+    <a class="live-link mt-4" href="https://devpost.com/software/trunkside?ref_content=user-portfolio&amp;ref_feature=in_progress">View Our Hackathon Submission</a>
+
+    
+</div>
+
+<div class="project project-3">
+  <h2>Historical Buildings Tour</h2>
+  
+  <p class="date mt-2">July 2020</p>
+  <div class="row">
+    <p>Tools used:</p>
+    <div class="col-6 p-4 py-0" style="border-right: 2px solid #fff">
+      <ul>
+        <li>HTML5</li>
+        <li>CSS3</li>
+        <li>UCF's BootStrap4 Framework</li>
+      </ul>
+  </div>
+  <div class="col-6">
+      <ul>
+        <li>Adobe XD</li>
+        <li>Git</li>
+        <li>GitHub</li>
+      </ul>
+    </div>
+</div>
+      <p>This is a web page concept created for the University of Central Florida's Historical Buildings Tour.My design concept centered on making the university archives page a more user-friendly experience for researchers <i>and</i> casual visitors alike, while following UCF's brand standards for the web.</p>
+        
+      <p> The mock-up includes eight pages, a home page, a building page, and six pages for each of the building's archived photographs.  All eight pages were built with HTML, CSS, and UCF's front-end framework based on Bootstrap called 'Athena'. </p>
+        
+      <p>I created seven prototypes with Adobe XD to plan out the layout for mobile, medium, and large screen sizes to plan out a responsive and cohesive design between pages.</p>
+  
+
+  <a class="live-link mt-2 d-block" href="https://camila-guzman.github.io/historical-buildings-tour-ucf/"> View Live Home Page</a>
+
+  <a class="live-link d-block" href="https://camila-guzman.github.io/historical-buildings-tour-ucf/">View Live Building Page</a>
+
+  <a class="code-link d-block" href="https://github.com/camila-guzman/camila-guzman.github.io">View on GitHub</a>
+
+</div>
+
+
+</div>
+  </div>
+        
+        
+    </div>
+  </div> 
+
+</div>
+</div>
