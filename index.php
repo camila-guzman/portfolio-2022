@@ -9,7 +9,7 @@
 
         <div class="row project">
           <div class="col-lg-12">
-            <h2>Lynx Bus Tracker App — Capstone Revamp Project</h2>
+            <h3>Lynx Bus Tracker App — Capstone Revamp Project</h3>
             <div class="badge-group">
               <!--<span class="badge b-design"><i class="fas fa-palette"></i> Design</span>-->
               <span class="badge b-full-stack"><i class="fas fa-code"></i> Full Stack Development</span>
@@ -40,7 +40,7 @@
 
         <div class="row project">
           <div class="col-lg-12">
-            <h2>Aruba Web Style Guide</h2>
+            <h3>Aruba Web Style Guide</h3>
             <div class="badge-group">
               <span class="badge b-full-stack"><i class="fas fa-code"></i> Full Stack Development</span>
               <span class="badge b-ux-ui"><i class="fas fa-object-group"></i> UX/UI </span>
@@ -90,7 +90,7 @@
             <img class="portfolio-img img-fluid mb-2 mt-4" src="./images/osi-events-cover.png" />
           </div>
           <div class="col-lg-7">
-            <h2>Events Page Redesign</h2>
+            <h3>Events Page Redesign</h3>
             <div class="badge-group">
               <!--<span class="badge b-design"><i class="fas fa-palette"></i> Design</span>-->
               <span class="badge b-full-stack"><i class="fas fa-code"></i> Front End Development</span>
@@ -125,7 +125,7 @@
             <img class="portfolio-img img-fluid mb-2 mt-4" src="./images/tuner-app.png" />
           </div>
           <div class="col-lg-7">
-            <h2>Tuner App</h2>
+            <h3>Tuner App</h3>
             <div class="badge-group">
               <span class="badge b-ux-ui"><i class="fas fa-object-group"></i> UX & UI</span>
               <span class="badge b-design"><i class="fas fa-palette"></i> Design</span>
@@ -160,7 +160,7 @@
             <img class="img-fluid mb-2 mt-4" src="./images/butterscotch-bakery-display.jpg" />
           </div>
           <div class="col-lg-7">
-            <h2>Butterscotch Bakery</h2>
+            <h3>Butterscotch Bakery</h3>
             <div class="badge-group">
               <span class="badge b-full-stack"><i class="fas fa-code"></i> Full Stack Development</span>
             </div>
@@ -198,7 +198,7 @@
             <img class="img-fluid my-3" src="./images/trunkside.jpg" />
           </div>
           <div class="col-lg-7">
-            <h2>TrunkSide App</h2>
+            <h3>TrunkSide App</h3>
             <div class="badge-group">
               <span class="badge b-ux-ui"><i class="fas fa-object-group"></i> UX & UI</span>
             </div>
@@ -221,6 +221,76 @@
             </div>
           </div>
         </div>
+
+        <div class="row project">
+          <div class="col-lg-5">
+                <img class="img-fluid my-3" src="./images/academic-village-screen.png" />
+          </div>
+          <div class="col-lg-7">
+            <h3>UCF Historical Buildings Tour</h3>
+            <div class="badge-group">
+            <span class="badge b-full-stack"><i class="fas fa-code"></i> Front End Development</span>
+              <span class="badge b-ux-ui"><i class="fas fa-object-group"></i> UX & UI</span>
+              <span class="badge b-design"><i class="fas fa-palette"></i> Design</span>
+            </div>
+            <div class="row">
+              <div class="col-lg-9">
+                <p class="date">July 2020</p>
+                <p>This is a web design concept made for UCF's Historical Buildings Tour. My design centered on making the university archivs pages more user-friendly for researchers and casual visitors alike, while following UCF's web brand standards.</p>
+
+                <p>I created prototypes on Adobe XD to plan out a responsive layout for eight pages: a buildings tour landing page, the academic building page, and six pages for each archived photograph.</p> 
+
+                <p>Then, I built out the pages using HTML, CSS, and UCF's front-end framework based on Bootstrap called 'Athena'</p>
+              </div>
+              <div class="col-lg-3 tools">
+                <p>Tools</p>
+                <ul>
+                  <li>Adobe XD</li>
+                  <li>HTML</li>
+                  <li>CSS</li>
+                  <li>Athena: Bootstrap based framework</li>
+                </ul>
+              </div>
+              <div class="my-3">
+                <a  class="cta" href="https://camila-guzman.github.io/historical-buildings-tour-ucf/index.html">Visit Site</a>
+              <a class="cta" href="https://github.com/camila-guzman/camila-guzman.github.io">View Code on GitHub</a>
+              <div class="d-flex">
+                <i class="fas fa-arrow-up" style="margin-right: 70px"></i>
+                <i class="fas fa-arrow-up"></i>
+              </div>
+            </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="row project">
+          <h3>Portfolio Archive</h3>
+          <p>Let's look back at past portfolios to see the growth :')</p>
+          <div class="col-lg-3">
+            <img class="img-fluid my-3" src="./images/portfolio-february-2022.PNG" />
+            <p>February 2022</p>
+            <div class="my-3">
+              <a class="cta" href="http://cg-portfolio-2-22.herokuapp.com/">Visit Site</a>
+              <i class="fas fa-arrow-up d-block"></i>
+            </div>
+          </div>
+          <div class="col-lg-3">
+            <img class="img-fluid my-3" src="./images/portfolio-november-2020.PNG" />
+            <p>November 2020</p>
+            <div class="my-3">
+              <a class="cta" href="http://cg-portfolio-11-20.herokuapp.com/">Visit Site</a>
+              <i class="fas fa-arrow-up d-block"></i>
+            </div>
+          </div>
+          <div class="col-lg-3">
+            <img class="img-fluid my-3" src="./images/portfolio-august-2020.PNG" />
+            <p>August 2020</p>
+            <div class="my-3">
+              <a class="cta" href="hhttps://camila-guzman.github.io/">Visit Site</a>
+              <i class="fas fa-arrow-up d-block"></i>
+            </div>
+          </div>
+
       </div>
     </div>
   </div>
