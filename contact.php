@@ -1,10 +1,10 @@
 <?php include './templates/header.php'; ?>
 
-<div class="col-lg-9 d-block px-0 content-wrapper">
+<div class="col-lg-10 d-block px-0 content-wrapper">
   <div class="content container sticky-left" style="height: 100vh">
 
     <h1>Contact</h1>
-
+    <div class="d-block d-lg-flex align-items-center  mt-5">
     <img class="envelope" src="./images/send-me-mail.gif" />
 
     <!--contact section-->
@@ -16,6 +16,7 @@
             </li>
           </ul>
       </div>
+</div>
     </div>
   </div>
 </div>

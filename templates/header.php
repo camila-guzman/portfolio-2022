@@ -8,7 +8,7 @@
     <link rel="stylesheet" href="styles/main.css" />
 
     <!--favicon-->
-    <link rel="icon" href="images/favicon.gif" type="image/gif" />
+    <link rel="icon" href="images/favicon-round.png" type="image/gif" />
 
     <!--icon kit-->
     <script src="https://kit.fontawesome.com/bf0ea5bc59.js" crossorigin="anonymous"></script>
@@ -48,19 +48,19 @@
 
             <!--social nav-->
             <nav class="social-nav">
-                <li><a href="https://github.com/camila-guzman"><span><i style="margin-right: 10px" class="fab fa-github-alt"></i></span>@camila-guzman on GitHub</a></li>
-                <li><a href="https://www.linkedin.com/in/camila-guzman11/"><span><i style="margin-right: 10px" class="fab fa-linkedin-in"></i></span>Add me on LinkedIn</a></li>
-                <li><a href="mailto:camilamguzman11@gmail.com"><span><i style="margin-right: 10px" class="fas fa-envelope"></i></span>camilamguzman11@gmail.com</a></li>
+                <li><a href="https://github.com/camila-guzman"><span><i style="margin-right: 10px" class="fab fa-github-alt"></i></span>my GitHub</a></li>
+                <li><a href="https://www.linkedin.com/in/camila-guzman11/"><span><i style="margin-right: 10px" class="fab fa-linkedin-in"></i></span>add me on LinkedIn</a></li>
+                <li><a href="mailto:camilamguzman11@gmail.com"><span><i style="margin-right: 10px" class="fas fa-envelope"></i></span>email me</a></li>
             </nav>
 
             <nav class="nav-bar">
-                <a href="./about.php"> <span>About</span></a>
-                <a href="./index.php"> <span>Portfolio</span></a>
-                <a href="./contact.php"><span>Contact</span></a>
+                <a href="./about.php"> <span>_ About</span></a>
+                <a href="./index.php"> <span>_ Portfolio</span></a>
+                <a href="./contact.php"><span>_ Contact</span></a>
             </nav>
         </div>
     </div>
-    <div class="col-lg-3 d-none d-lg-block px-0">
+    <div class="col-lg-2 d-none d-lg-block px-0">
         <div class="sidebar container-fluid sticky-top">
             <div class="mx-auto p-1">
                 <div class="logo"></div>
@@ -69,26 +69,28 @@
                 <a href="index.php"><h2 class="name">Camila Guzman</h2></a>
 
                 <p>
-                    Curious developer who loves learning new techniques and tools to improve user experiences
+                    curious developer who loves learning new techniques and tools to improve user experiences
                 </p>
 
                 <!--social nav-->
                 <div class="mt-2">
                     <nav class="social-nav">
-                        <li><a href="https://github.com/camila-guzman"><span><i style="margin-right: 10px" class="fab fa-github-alt"></i></span>@camila-guzman on GitHub</a></li>
-                        <li><a href="https://www.linkedin.com/in/camila-guzman11/"><span><i style="margin-right: 10px" class="fab fa-linkedin-in"></i></span>Add me on LinkedIn</a></li>
-                        <li><a href="mailto:camilamguzman11@gmail.com"><span><i style="margin-right: 10px" class="fas fa-envelope"></i></span>camilamguzman11@gmail.com</a></li>
+                    <li><a href="https://github.com/camila-guzman"><span><i style="margin-right: 10px" class="fab fa-github-alt"></i></span>my GitHub</a></li>
+                    <li><a href="https://www.linkedin.com/in/camila-guzman11/"><span><i style="margin-right: 10px" class="fab fa-linkedin-in"></i></span>add me on LinkedIn</a></li>
+                    <li><a href="mailto:camilamguzman11@gmail.com"><span><i style="margin-right: 10px" class="fas fa-envelope"></i></span>email me</a></li>
                     </nav>
                 </div>
                 <!--page nav-->
                 <div class="mt-2">
                     <nav class="page-nav">
-                        <a href="./about.php"> <span>About</span></a>
-                        <a href="./index.php"> <span>Portfolio</span></a>
-                        <a href="./contact.php"><span>Contact</span></a>
+                        <a href="./about.php"> <span>_ About</span></a>
+                        <a href="./index.php"> <span>_ Portfolio</span></a>
+                        <a href="./contact.php"><span>_ Contact</span></a>
                     </nav>
+
                 </div>
                 <p class="credit"><span><i class="fas fa-smile"></i></span> Designed & Built by Camila Guzman <span><i class="fas fa-smile"></i></span></p>
+                
         </div>
     </div>
 </div>

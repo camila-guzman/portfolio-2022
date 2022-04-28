@@ -2,17 +2,12 @@
 <html>
 <?php include './templates/header.php'; ?>
 
-<div class="col-lg-9 d-block px-0">
-  <div class="content container-fluid sticky-left px-0">
+<div class="col-lg-10 d-block px-0 content-wrapper">
+  <div class="container-fluid sticky-left px-0">
     <!--about section-->
-    <div id="about" class="section">
+    <div id="about" class="content section">
     <h1>About</h1>
-        <h2 class="title mt-4">Hello!</h2>
-        <div class="row">
-          
-        <div class="col-lg-4">
-          <img class="img-fluid headshot" src="./images/camila-guzman-headshot-600px.jpg" />
-        </div>
+        <div class="row mt-5">
         <div class="col-lg-8 pb-4">
         <p>My name is Camila Guzman and I am a developer! <span><i class="fas fa-smile-beam"></i></span></p>
           
@@ -20,13 +15,16 @@
         I'm a senior at the University of Central Florida, <span class="highlight">graduating in May 2022.</span> I work at UCF's Design Group as a web designer where I focus on building responsive user experiences and interfaces for the university community.</p>
 
         <p>
-        <span class="highlight">I am a curious and creative learner!</span> I'm always looking at existing websites and applications to see what improvements can be made or look for subtle details that make a huge difference in how you navigate a page. I'm very interested in information architecture because of this.</p>
+        <span class="highlight">I am a curious and creative learner!</span> I always look at existing websites and applications to see what trends exist and what improvements can be made. I'm very interested in information architecture and using relational databases.</p>
 
-        <p> When I am not working on web development or user experience projects, I love to <span class="highlight">learn foreign languages, listen to music, take pictures with my film camera, paint, and practice fiber arts like knitting and crocheting.</span> These mediums help me stay creative and inspire me to try building out new ideas and interactions for web spaces. <i>I made my logo and the gif on my <a class="inline-link" href="./contact.php">contact page!</a></i></p>
+        <p>I love to <span class="highlight">learn foreign languages, listen to music, take pictures with my film camera, paint, and knit.</span> These mediums help me stay creative and inspire me to try building out new ideas for web spaces. <i><br><br>I made my logo and the gif on my <a class="inline-link" href="./contact.php">contact page!</a></i></p>
 
-        <p>I really value community-oriented spaces that allow people to get together and share ideas, processes, and techniques. As a Colombian-American, I am passionate about representation of <span class="highlight">women of color in tech!</span> I look for workplaces that show diversity and inclusion, care about learning and development, and prioritize work-life balance.</p>
+        <p>I value community-oriented spaces that allow people to get together and share ideas. As a Colombian-American, I am passionate about <span class="highlight">women of color in tech!</span> I look for workplaces that show diversity and inclusion, care about learning and development, and prioritize work-life balance.</p>
 
         <p>Take a look at my portfolio for my latest work, connect with me on LinkedIn, or visit my GitHub page for more.</p>
+        </div>
+        <div class="col-lg-4">
+          <img class="img-fluid headshot" src="./images/camila-guzman-headshot-600px.jpg" />
         </div>
       </div>
     </div>

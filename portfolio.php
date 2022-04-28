@@ -1,6 +1,6 @@
 <?php include './templates/header.php'; ?>
 
-<div class="col-lg-8 d-block px-0 content-wrapper">
+<div class="col-lg-10 d-block px-0 content-wrapper">
   <div class="content container-fluid sticky-left">
     <h1>Portfolio</h1>
 
