@@ -18,7 +18,7 @@
               <div class="col-lg-3">
                 <a href="./images/lynx-app-filters-screen.png" class="img-hover"><img class="portfolio-img img-fluid mb-4" src="./images/lynx-app-filters-screen.png" /></a>
               </div>
-              <div class="col-lg-7">
+              <div class="col-lg-7 mb-4">
                 <p class="date">August 2021-December 2021</p>
                 <p>This was a group project completed for my university capstone. I collaborated with designers and a developer to revamp the existing Orlando's Lynx Bus Tracker App. We conceptualized, planned, and built the new Lynx Bus App on time.</p>
                 <p>I worked as a developer with another teammate to build out the new app using a front and back end tech stack. I introducted PHP, SQL, and MySQL to store and dynamically display bus route information and filter through routes!</p> 
@@ -54,7 +54,7 @@
                 <a href="./images/Aruba-guide-prototype-v1-typography.PNG" class="img-hover"><img class="portfolio-img img-fluid mb-4" src="./images/Aruba-guide-prototype-v1-typography.PNG" /></a>
                 <a href="./images/Aruba-guide-prototype-v1-contact-module.PNG" class="img-hover"><img class="portfolio-img img-fluid mb-4" src="./images/Aruba-guide-prototype-v1-contact-module.PNG" /></a>
                 </div>
-              <div class="col-lg-7">
+              <div class="col-lg-7 mb-4">
                 <p class="date">May 2021-December 2021</p>
                 <p>Purpose:</p>
                 <ul>
@@ -100,7 +100,7 @@
               <div class="col-lg-3">
                 <a href="./images/osi-events-cover.png" class="img-hover"><img class="portfolio-img img-fluid mb-4" src="./images/osi-events-cover.png" /></a>
               </div>
-              <div class="col-lg-7">
+              <div class="col-lg-7 mb-4">
                 <p class="date">May 2021</p>
                 <p> I designed and built a new Events page for UCF Office of Student Involvement's website. The page originally had a plain table with all of the semester's events.</p>
                 <p>The redesign focused on just <i>this week's</i> events to increase event and page engagement. I introduced jumplinks so that users can quickly look for events on a certain day.</p>
@@ -135,7 +135,7 @@
               <div class="col-lg-3">
               <a href="./images/butterscotch-bakery-display.jpg" class="img-hover"><img class="img-fluid mb-4" src="./images/butterscotch-bakery-display.jpg" /></a>
             </div>
-              <div class="col-lg-7">
+              <div class="col-lg-7 mb-4">
                 <p class="date">December 2020</p>
                 <p> I created a website for a fake bakery inspired by my love for baked goods!</p>
                 <p>I used MySQL to organize a database with two tables: one for account information with encrypted passwords and a second table for menu items and their details.</p>
@@ -170,7 +170,7 @@
               <div class="col-lg-3">
                 <a href="./images/academic-village-screen.png" class="img-hover"><img class="img-fluid mb-4" src="./images/academic-village-screen.png" /></a>
             </div>
-              <div class="col-lg-7">
+              <div class="col-lg-7 mb-4">
                 <p class="date">July 2020</p>
                 <p>This is a web design concept made for UCF's Historical Buildings Tour. My design centered on making the university archives pages more user-friendly for researchers and casual visitors alike, while following UCF's web brand standards.</p>
 
@@ -197,17 +197,17 @@
         <div class="row project">
           <h3>Portfolio Archive</h3>
           <p>Let's look back at past portfolios to see the growth :')</p>
-          <div class="col-lg-3">
+          <div class="col-lg-3 mb-4">
             <a href="./images/portfolio-february-2022.PNG" class="img-hover"><img class="img-fluid mb-3" src="./images/portfolio-february-2022.PNG" /></a>
             <p>February 2022</p>
               <a class="cta" href="http://cg-portfolio-2-22.herokuapp.com/">Visit Site</a>
           </div>
-          <div class="col-lg-3">
+          <div class="col-lg-3 mb-4">
             <img class="img-fluid mb-3" src="./images/portfolio-november-2020.PNG" />
             <p>November 2020</p>
               <a class="cta" href="http://cg-portfolio-11-20.herokuapp.com/">Visit Site</a>
           </div>
-          <div class="col-lg-3">
+          <div class="col-lg-3 mb-4">
             <img class="img-fluid mb-3" src="./images/portfolio-august-2020.PNG" />
             <p>August 2020</p>
               <a class="cta" href="hhttps://camila-guzman.github.io/">Visit Site</a>
