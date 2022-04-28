@@ -245,6 +245,7 @@
 @mixin about-style {
   .headshot {
     margin-bottom: 20px;
+    border-radius: 50%;
   }
   .skills li {
     margin-bottom: 10px;
