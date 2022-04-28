@@ -17,9 +17,9 @@
         <p>
         <span class="highlight">I am a curious and creative learner!</span> I always look at existing websites and applications to see what trends exist and what improvements can be made. I'm very interested in information architecture and using relational databases.</p>
 
-        <p>I love to <span class="highlight">learn foreign languages, listen to music, take pictures with my film camera, paint, and knit.</span> These mediums help me stay creative and inspire me to try building out new ideas for web spaces. <i><br><br>I made my logo and the gif on my <a class="inline-link" href="./contact.php">contact page!</a></i></p>
+        <p>In my free time I love to learn foreign languages, listen to music, paint, and draw. I made my logo and the gif on my <a class="inline-link" href="./contact.php">contact page!</a></p>
 
-        <p>I value community-oriented spaces that allow people to get together and share ideas. As a Colombian-American, I am passionate about <span class="highlight">women of color in tech!</span> I look for workplaces that show diversity and inclusion, care about learning and development, and prioritize work-life balance.</p>
+        <p>I value community-oriented spaces that allow people to get together and share ideas. I am passionate about <span class="highlight">women of color in tech!</span> I look for workplaces that show diversity and inclusion, care about learning and development, and prioritize work-life balance.</p>
 
         <p>Take a look at my portfolio for my latest work, connect with me on LinkedIn, or visit my GitHub page for more.</p>
         </div>
