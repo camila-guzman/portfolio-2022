@@ -62,10 +62,8 @@
                   <li>Strengthen Aruba's web branding after their redesign launch</li>
                   <li>Make sure sites and web apps created by external teams follow new brand rules</li>
                 </ul>
-
-                <a class="cta" data-toggle="collapse" href="#aruba-collapse" role="button" aria-expanded="false" aria-controls="aruba-collapse">Read More</a>
                 
-                <div class="collapse" id="aruba-collapse">
+                <div class="collapse" id="aruba-collapse show">
                   <p>I categorized content, organized the information architecture, and created a low-fidelity prototype on Adobe XD.</p>
 
                   <p> After UX/UI iterations and content writing, I built a Wordpress theme using HTML, CSS, PHP, and Bootstrap. I wrote up documentation for the developers to use after I left the team.</p>
