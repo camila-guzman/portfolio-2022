@@ -18,7 +18,9 @@
 @include portfolio-style;
 @include about-style;
 @include contact-style;
-@include badges;
 
-// basic elements mixin
+// elements mixins
 @include element-style;
+@include badges;
+@include project-filter;
+@include img-hover;

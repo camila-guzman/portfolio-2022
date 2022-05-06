@@ -342,3 +342,51 @@
     background-color: #f3e4ff !important;
   }
 }
+
+@mixin project-filter {
+  .project-filter--form {
+    display: flex;
+    overflow-inline: scroll;
+    scrollbar-color: #5a5553 white;
+    scrollbar-width: thin;
+    margin-bottom: 15px;
+  }
+  .project-filter--div input {
+    margin: 20px 10px;
+    width: fit-content;
+    height: fit-content;
+    display: flex;
+    padding: 0px 10px;
+    font-size: 12px;
+    text-transform: lowercase;
+    background-color: unset;
+    border: none;
+    }
+
+    .project-filter--div input:hover {
+      background-color: rgba(192, 237, 255, 0.84);
+    }
+    input:target {
+      background-color: rgba(238,255,126,0.568627);
+    }
+}
+
+@mixin img-hover {
+  .img-hover--a {
+    position: relative;
+  }
+  .img-hover--p {
+    position: absolute;
+    z-index: 1;
+    text-align: center;
+    width: 100%;
+    top: 0;
+    opacity: 0;
+    color: white;
+    background-color: $blue;
+    padding: 20px;
+  }
+  .img-hover--a:hover .img-hover--p, .img-hover--img:hover .img-hover--p {
+    opacity: 1;
+  }
+}
